@@ -28,8 +28,11 @@ gem 'jbuilder', '2.5.0'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
-# Use Twitter Bootstrap for UIcd
+
+# Use Twitter Bootstrap for UI
 gem 'bootstrap-sass', '3.3.7'
+#Use Font Awesome saas gem for icons
+gem 'font-awesome-sass', '4.6.2'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
